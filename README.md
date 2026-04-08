@@ -1,19 +1,19 @@
 # Event-Management-System
 Event Management System built using PHP, MySQL, and Bootstrap with role-based login, event creation, registration, and admin analytics.
 
-Features
-User & Admin Login
-Event Creation (Admin)
-Event Registration (User)
-Cancel Registration
-Admin Analytics
+Features : <br>
+User & Admin Login<br>
+Event Creation (Admin)<br>
+Event Registration (User)<br>
+Cancel Registration<br>
+Admin Analytics<br><br>
 
-Tech Stack
-HTML
-CSS
-PHP
-MySQL
-Bootstrap
+Tech Stack<br>
+HTML<br>
+CSS<br>
+PHP<br>
+MySQL<br>
+Bootstrap<br>
 
-Author
+Author<br>
 Medhavi Dubey
