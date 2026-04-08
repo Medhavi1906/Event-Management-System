@@ -16,5 +16,4 @@ MySQL<br>
 Bootstrap<br>
 
 Author<br>
-Medhavi Dubey<br>
-![My Image](abc.webp)
+Medhavi Dubey
